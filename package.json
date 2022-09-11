@@ -10,13 +10,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@keystone-6/auth": "^4.0.1",
     "@keystone-6/core": "^2.2.0",
+    "@keystonejs/keystone": "^19.3.4",
+    "fs": "^0.0.1-security",
+    "keystone": "^4.2.1",
     "next": "12.3.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@types/node": "18.7.16",
+    "@types/node": "^18.7.16",
     "@types/react": "18.0.19",
     "@types/react-dom": "18.0.6",
     "eslint": "8.23.0",
